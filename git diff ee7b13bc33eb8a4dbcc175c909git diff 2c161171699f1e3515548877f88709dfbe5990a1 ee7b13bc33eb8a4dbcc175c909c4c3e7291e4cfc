@@ -1,0 +1,25 @@
+[33mcommit 7bd331a286150adbfbc67c738baf6225aef8c7bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: gatoguapo <victor._espinoza@hotmail.com>
+Date:   Sat Aug 20 17:50:43 2022 -0600
+
+    Agregamos el cargo de la persona
+    
+    La persona es gatoguapo
+
+[33mcommit ee7b13bc33eb8a4dbcc175c909c4c3e7291e4cfc[m
+Author: gatoguapo <victor._espinoza@hotmail.com>
+Date:   Sat Aug 20 17:49:36 2022 -0600
+
+    Agregamos un cambio a su fisico
+
+[33mcommit 48c570ee95514ad3297909264d2b2d8067d7d4aa[m
+Author: gatoguapo <victor._espinoza@hotmail.com>
+Date:   Fri Aug 19 20:53:17 2022 -0600
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit 2c161171699f1e3515548877f88709dfbe5990a1[m
+Author: gatoguapo <victor._espinoza@hotmail.com>
+Date:   Fri Aug 19 20:50:46 2022 -0600
+
+    Este es el primer commit de este archivo
